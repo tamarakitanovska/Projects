@@ -1,0 +1,10 @@
+C:\Users\Tamara\Desktop\Vizuelno\VPZadaci\VPBallsChaos1\VPBallsChaos1\bin\Debug\VPBallsChaos1.exe.config
+C:\Users\Tamara\Desktop\Vizuelno\VPZadaci\VPBallsChaos1\VPBallsChaos1\bin\Debug\VPBallsChaos1.exe
+C:\Users\Tamara\Desktop\Vizuelno\VPZadaci\VPBallsChaos1\VPBallsChaos1\bin\Debug\VPBallsChaos1.pdb
+C:\Users\Tamara\Desktop\Vizuelno\VPZadaci\VPBallsChaos1\VPBallsChaos1\obj\Debug\VPBallsChaos1.csprojResolveAssemblyReference.cache
+C:\Users\Tamara\Desktop\Vizuelno\VPZadaci\VPBallsChaos1\VPBallsChaos1\obj\Debug\VPBallsChaos1.Form1.resources
+C:\Users\Tamara\Desktop\Vizuelno\VPZadaci\VPBallsChaos1\VPBallsChaos1\obj\Debug\VPBallsChaos1.Properties.Resources.resources
+C:\Users\Tamara\Desktop\Vizuelno\VPZadaci\VPBallsChaos1\VPBallsChaos1\obj\Debug\VPBallsChaos1.csproj.GenerateResource.cache
+C:\Users\Tamara\Desktop\Vizuelno\VPZadaci\VPBallsChaos1\VPBallsChaos1\obj\Debug\VPBallsChaos1.csproj.CoreCompileInputs.cache
+C:\Users\Tamara\Desktop\Vizuelno\VPZadaci\VPBallsChaos1\VPBallsChaos1\obj\Debug\VPBallsChaos1.exe
+C:\Users\Tamara\Desktop\Vizuelno\VPZadaci\VPBallsChaos1\VPBallsChaos1\obj\Debug\VPBallsChaos1.pdb

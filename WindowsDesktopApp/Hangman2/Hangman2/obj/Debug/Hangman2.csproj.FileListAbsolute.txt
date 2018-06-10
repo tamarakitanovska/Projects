@@ -1,0 +1,11 @@
+C:\Users\Tamara\source\repos\Hangman2\Hangman2\bin\Debug\Hangman2.exe.config
+C:\Users\Tamara\source\repos\Hangman2\Hangman2\bin\Debug\Hangman2.exe
+C:\Users\Tamara\source\repos\Hangman2\Hangman2\bin\Debug\Hangman2.pdb
+C:\Users\Tamara\source\repos\Hangman2\Hangman2\obj\Debug\Hangman2.csprojResolveAssemblyReference.cache
+C:\Users\Tamara\source\repos\Hangman2\Hangman2\obj\Debug\Hangman2.Form1.resources
+C:\Users\Tamara\source\repos\Hangman2\Hangman2\obj\Debug\Hangman2.Properties.Resources.resources
+C:\Users\Tamara\source\repos\Hangman2\Hangman2\obj\Debug\Hangman2.csproj.GenerateResource.cache
+C:\Users\Tamara\source\repos\Hangman2\Hangman2\obj\Debug\Hangman2.csproj.CoreCompileInputs.cache
+C:\Users\Tamara\source\repos\Hangman2\Hangman2\obj\Debug\Hangman2.exe
+C:\Users\Tamara\source\repos\Hangman2\Hangman2\obj\Debug\Hangman2.pdb
+C:\Users\Tamara\source\repos\Hangman2\Hangman2\obj\Debug\Hangman2.SystemMonitor.resources

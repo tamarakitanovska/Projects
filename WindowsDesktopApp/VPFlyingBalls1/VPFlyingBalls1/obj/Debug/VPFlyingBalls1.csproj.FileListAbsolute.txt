@@ -1,0 +1,10 @@
+C:\Users\Tamara\Desktop\Vizuelno\VPZadaci\VPFlyingBalls1\VPFlyingBalls1\obj\Debug\VPFlyingBalls1.csprojResolveAssemblyReference.cache
+C:\Users\Tamara\Desktop\Vizuelno\VPZadaci\VPFlyingBalls1\VPFlyingBalls1\obj\Debug\VPFlyingBalls1.Form1.resources
+C:\Users\Tamara\Desktop\Vizuelno\VPZadaci\VPFlyingBalls1\VPFlyingBalls1\obj\Debug\VPFlyingBalls1.Properties.Resources.resources
+C:\Users\Tamara\Desktop\Vizuelno\VPZadaci\VPFlyingBalls1\VPFlyingBalls1\obj\Debug\VPFlyingBalls1.csproj.GenerateResource.cache
+C:\Users\Tamara\Desktop\Vizuelno\VPZadaci\VPFlyingBalls1\VPFlyingBalls1\obj\Debug\VPFlyingBalls1.csproj.CoreCompileInputs.cache
+C:\Users\Tamara\Desktop\Vizuelno\VPZadaci\VPFlyingBalls1\VPFlyingBalls1\bin\Debug\VPFlyingBalls1.exe.config
+C:\Users\Tamara\Desktop\Vizuelno\VPZadaci\VPFlyingBalls1\VPFlyingBalls1\bin\Debug\VPFlyingBalls1.exe
+C:\Users\Tamara\Desktop\Vizuelno\VPZadaci\VPFlyingBalls1\VPFlyingBalls1\bin\Debug\VPFlyingBalls1.pdb
+C:\Users\Tamara\Desktop\Vizuelno\VPZadaci\VPFlyingBalls1\VPFlyingBalls1\obj\Debug\VPFlyingBalls1.exe
+C:\Users\Tamara\Desktop\Vizuelno\VPZadaci\VPFlyingBalls1\VPFlyingBalls1\obj\Debug\VPFlyingBalls1.pdb

@@ -1,0 +1,10 @@
+C:\Users\Tamara\source\repos\VPNarackaNaPica\VPNarackaNaPica\bin\Debug\VPNarackaNaPica.exe.config
+C:\Users\Tamara\source\repos\VPNarackaNaPica\VPNarackaNaPica\bin\Debug\VPNarackaNaPica.exe
+C:\Users\Tamara\source\repos\VPNarackaNaPica\VPNarackaNaPica\bin\Debug\VPNarackaNaPica.pdb
+C:\Users\Tamara\source\repos\VPNarackaNaPica\VPNarackaNaPica\obj\Debug\VPNarackaNaPica.csprojResolveAssemblyReference.cache
+C:\Users\Tamara\source\repos\VPNarackaNaPica\VPNarackaNaPica\obj\Debug\VPNarackaNaPica.Form1.resources
+C:\Users\Tamara\source\repos\VPNarackaNaPica\VPNarackaNaPica\obj\Debug\VPNarackaNaPica.Properties.Resources.resources
+C:\Users\Tamara\source\repos\VPNarackaNaPica\VPNarackaNaPica\obj\Debug\VPNarackaNaPica.csproj.GenerateResource.cache
+C:\Users\Tamara\source\repos\VPNarackaNaPica\VPNarackaNaPica\obj\Debug\VPNarackaNaPica.csproj.CoreCompileInputs.cache
+C:\Users\Tamara\source\repos\VPNarackaNaPica\VPNarackaNaPica\obj\Debug\VPNarackaNaPica.exe
+C:\Users\Tamara\source\repos\VPNarackaNaPica\VPNarackaNaPica\obj\Debug\VPNarackaNaPica.pdb

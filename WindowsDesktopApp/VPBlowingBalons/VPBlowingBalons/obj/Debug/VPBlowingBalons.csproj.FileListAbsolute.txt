@@ -1,0 +1,10 @@
+C:\Users\Tamara\Desktop\Vizuelno\VPZadaci\VPBlowingBalons\VPBlowingBalons\bin\Debug\VPBlowingBalons.exe.config
+C:\Users\Tamara\Desktop\Vizuelno\VPZadaci\VPBlowingBalons\VPBlowingBalons\bin\Debug\VPBlowingBalons.exe
+C:\Users\Tamara\Desktop\Vizuelno\VPZadaci\VPBlowingBalons\VPBlowingBalons\bin\Debug\VPBlowingBalons.pdb
+C:\Users\Tamara\Desktop\Vizuelno\VPZadaci\VPBlowingBalons\VPBlowingBalons\obj\Debug\VPBlowingBalons.csprojResolveAssemblyReference.cache
+C:\Users\Tamara\Desktop\Vizuelno\VPZadaci\VPBlowingBalons\VPBlowingBalons\obj\Debug\VPBlowingBalons.Form1.resources
+C:\Users\Tamara\Desktop\Vizuelno\VPZadaci\VPBlowingBalons\VPBlowingBalons\obj\Debug\VPBlowingBalons.Properties.Resources.resources
+C:\Users\Tamara\Desktop\Vizuelno\VPZadaci\VPBlowingBalons\VPBlowingBalons\obj\Debug\VPBlowingBalons.csproj.GenerateResource.cache
+C:\Users\Tamara\Desktop\Vizuelno\VPZadaci\VPBlowingBalons\VPBlowingBalons\obj\Debug\VPBlowingBalons.csproj.CoreCompileInputs.cache
+C:\Users\Tamara\Desktop\Vizuelno\VPZadaci\VPBlowingBalons\VPBlowingBalons\obj\Debug\VPBlowingBalons.exe
+C:\Users\Tamara\Desktop\Vizuelno\VPZadaci\VPBlowingBalons\VPBlowingBalons\obj\Debug\VPBlowingBalons.pdb
